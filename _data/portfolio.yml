@@ -1,0 +1,51 @@
+- title: Die Roesterei
+  url: https://dieroesterei.de
+  images:
+    - /assets/img/portfolio/1/1.png
+    - /assets/img/portfolio/1/2.png
+    - /assets/img/portfolio/1/3.png
+- title: Skillworld
+  url: https://www.skillworld.de
+  images:
+    - /assets/img/portfolio/0/1.png
+- title: Der Waffenladen
+  url: https://der-waffenladen.de
+  images:
+    - /assets/img/portfolio/0/1.png
+- title: Just4Motion
+  url: https://www.just4motion.ch
+  images:
+    - /assets/img/portfolio/0/1.png
+
+- title: Teppich.de
+  url: https://teppich.de/
+  images:
+    - /assets/img/portfolio/0/1.png
+- title: Funwheel
+  url: https://funwheel.ch
+  images:
+    - /assets/img/portfolio/0/1.png
+- title: Buero.de Buerotechnik
+  url: https://www.buero.de/buerotechnik/
+  images:
+    - /assets/img/portfolio/0/1.png
+- title: Mixmarkt Express
+  url: https://www.mixmarkt-express.eu/
+  images:
+    - /assets/img/portfolio/0/1.png
+- title: Bemusterung Helma
+  url: https://bemusterung.helma.cloud/
+  images:
+    - /assets/img/portfolio/0/1.png
+- title: CMT Recht Seminare
+  url: https://www.cmtrecht-seminare.de/
+  images:
+    - /assets/img/portfolio/0/1.png
+- title: Merch4Teams
+  url: https://merch4teams.de/
+  images:
+    - /assets/img/portfolio/0/1.png
+- title: Equator Shopping
+  url: https://www.equatorshopping.com/
+  images:
+    - /assets/img/portfolio/0/1.png

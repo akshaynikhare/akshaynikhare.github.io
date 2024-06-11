@@ -1,0 +1,143 @@
+---
+layout: default_minimal
+---
+
+{% include lang.html %}
+
+<style>
+  .main-container {
+    text-align: center;
+    margin-top: 1rem;
+  }
+  .main-container h1 {
+    margin-top: 6rem;
+  }
+  .main-container .subtitle {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  .card {
+    background: #f8f8f8;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    width: 500px;
+    padding: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  .card a {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+  }
+  .card-title {
+    display: inline-block;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-left:3px;
+    position: relative;
+  }
+  .card-title::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 3px;
+    background-color: #333;
+    transition: width 0.3s ease-in-out;
+  }
+  .card:hover .card-title::after {
+    width: 100%;
+  }
+  .card .image-container {
+    position: relative;
+    overflow: hidden;
+    border-radius: 4px;
+    padding-top: 66.67%; /* 2:3 aspect ratio */
+    transition: transform 0.5s ease-in-out; /* Add transition for smooth scaling */
+  }
+  .card:hover .image-container {
+    transform: scale(1.03);
+  }
+
+  .card img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  .card img.visible {
+    opacity: 1;
+  }
+</style>
+
+<div class="main-container" dfsd>
+  <h1 class="title">🚧 Portfolio Under Construction 🚧</h1>
+  <p class="subtitle">🛠️ Crafting something awesome with my skills! ✨</p>
+
+  <div class="grid">
+    {% for item in site.data.portfolio %}
+      <div class="card">
+        <a href="{{ item.url }}" target="_blank">
+          <div class="image-container">
+            {% for image in item.images %}
+              <img src="{{ image }}" alt="{{ item.title }}" class="{% if forloop.first %}visible{% endif %}">
+            {% endfor %}
+          </div>
+          <p class="card-title">{{ item.title }}</p>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const cards = document.querySelectorAll('.card');
+
+    cards.forEach(card => {
+      const images = card.querySelectorAll('.image-container img');
+      let currentIndex = 0;
+      let intervalId = null;
+
+      card.addEventListener('mouseenter', function() {
+        if (images.length < 2) return;
+
+        images[0].classList.remove('visible');
+        images[1].classList.add('visible');
+        currentIndex = 1;
+
+        if (images.length > 2) {
+          intervalId = setInterval(function() {
+            images[currentIndex].classList.remove('visible');
+            currentIndex = (currentIndex + 1) % images.length;
+            if (currentIndex === 0) currentIndex = 1;  // Skip the first image
+            images[currentIndex].classList.add('visible');
+          }, 1700);
+        }
+      });
+
+      card.addEventListener('mouseleave', function() {
+        clearInterval(intervalId);
+        intervalId = null;
+
+        images.forEach((img, index) => {
+          img.classList.toggle('visible', index === 0);
+        });
+        currentIndex = 0;
+      });
+    });
+  });
+</script>
