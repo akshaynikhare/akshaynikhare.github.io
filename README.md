@@ -4,10 +4,11 @@
 
 Welcome to my personal portfolio website! This repository houses the source code and content for my online portfolio, showcasing my skills, projects, and professional experience. The website is built using Jekyll, a static site generator, and hosted on GitHub Pages.
   
-  [![build Status](https://github.com/akshaynikhare/akshaynikhare.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master&event=push)](buildStatus)&nbsp;
+  [![build Status](https://github.com/akshaynikhare/akshaynikhare.github.io/actions/workflows/pages-deploy.yml/badge.svg?branch=master&event=push)](buildStatus)&nbsp;
   [![Portfolio Version](https://img.shields.io/badge/version-1.0.0-blue)](portfolio)&nbsp;
   [![GitHub license](https://img.shields.io/github/license/akshaynikhare/akshaynikhare.github.io)](license)
-  [![996.icu](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu)
+  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/dd8ea4e3edbb418da686033e63e7ff2d)](Badge_grade)
+
   
 <a href="https://akshaynikhare.github.io/" target="_blank" rel="noopener noreferrer"><strong>Live View Here</strong></a>
 
