@@ -50,12 +50,12 @@ social:
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
-  bing: # fill in your Bing verification code
+  google: jSDJWkiFf40RaC_4EjwGfnqelFY3nsMRmDeBCvo8aZE
+  bing: A913585E305D9D155B17EBE1909A04F2
   alexa: # fill in your Alexa verification code
-  yandex: # fill in your Yandex verification code
+  yandex: 0d731a45139bec2a
   baidu: # fill in your Baidu verification code
-  facebook: # fill in your Facebook verification code
+  facebook: hqkfx5kj5ap5gmb6op3obmrvejxlez
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
