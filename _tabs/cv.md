@@ -80,6 +80,20 @@ title: Curriculum vitae
 ### Summary
 Self-taught, Innovative Shopware Developer and Full Stack Developer specializing in Shopware 6, Vue.js, SQL, PHP, git ,svn , npm and Docker, excelling at crafting dynamic user experiences. Equipped with a Computer Science degree and a relentless drive for innovation. Expertise in frontend and backend development, theme customization, plugin development, UI/UX design, responsive design, performance optimization, e-commerce functionality, testing, debugging, and client collaboration.
 
+
+### Skills:
+Shopware 6, SQL, XML, PHP, Javascript, HTML5, Vue.js, Bootstrap, Node.js, Pattern Matching, MySQL, Json, Virtual Environment, Computer Science, Linux, Presentations, Library, SQL Injection, Team Management, Project Management
+
+
+### Tools:
+Docker, VS Code, Git, Photoshop, Figma, MongoDB, AutoCAD, WooCommerce, MATLAB, SSH, Dev Container
+
+
+### Education
+Bachelor of Engineering, Computer Science, Nagpur Institute of Technology
+
+
+
 ### Employment History
 
 #### Freelance Shopware Developer, CadNative.com (Aug 2020 - Present)
@@ -117,16 +131,6 @@ Self-taught, Innovative Shopware Developer and Full Stack Developer specializing
 - Modeled and drafted instrument transformers  
 - Provided drawings, job cards, BOQs, and sheet metal part drafting
 - Optimized sheet cutting and bending plans, simulated product stability
-
-### Education
-Bachelor of Engineering, Computer Science, Nagpur Institute of Technology
-
-### Skills:
-Shopware 6, SQL, XML, PHP, Javascript, HTML5, Vue.js, Bootstrap, Node.js, Pattern Matching, MySQL, Json, Virtual Environment, Computer Science, Linux, Presentations, Library, SQL Injection, Team Management, Project Management
-
-### Tools:
-Docker, VS Code, Git, Photoshop, Figma, MongoDB, AutoCAD, WooCommerce, MATLAB, SSH, Dev Container
-
 
 
 
