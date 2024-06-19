@@ -2,7 +2,7 @@
 layout: default_minimal
 icon: fas fa-file-word
 order: 1
-title: cv
+title: Curriculum vitae
 ---
 <style>
   .background-image-div {
@@ -59,11 +59,11 @@ title: cv
 <div class="background-image-div">
 </div>
 
-<a href="https://raw.githubusercontent.com/akshaynikhare/akshaynikhare/main/resume/Resume_Akshay_Nikhare_11_Jun_2024.docx" class="download-cv word-cv">
+<a href="https://raw.githubusercontent.com/akshaynikhare/akshaynikhare/main/resume/Resume_Akshay_Nikhare_19_Jun_2024.docx" class="download-cv word-cv">
   <i class="fa-fw fas fa-cloud-download"></i>
   <span>docx</span>
 </a>
-<a href="https://raw.githubusercontent.com/akshaynikhare/akshaynikhare/main/resume/Resume_Akshay_Nikhare_11_Jun_2024.pdf" class="download-cv pdf-cv">
+<a href="https://raw.githubusercontent.com/akshaynikhare/akshaynikhare/main/resume/Resume_Akshay_Nikhare_19_Jun_2024.pdf" class="download-cv pdf-cv">
   <i class="fa-fw fas fa-cloud-download"></i>
   <span>pdf</span>
 </a>
@@ -75,14 +75,14 @@ title: cv
 
 <hr/>
 
-#### Full Stack Developer | Shopware Developer
+## Full Stack Developer | Shopware Developer
 
-#### Summary
+### Summary
 Self-taught, Innovative Shopware Developer and Full Stack Developer specializing in Shopware 6, Vue.js, SQL, PHP, git ,svn , npm and Docker, excelling at crafting dynamic user experiences. Equipped with a Computer Science degree and a relentless drive for innovation. Expertise in frontend and backend development, theme customization, plugin development, UI/UX design, responsive design, performance optimization, e-commerce functionality, testing, debugging, and client collaboration.
 
-#### Employment History
+### Employment History
 
-##### Freelance Shopware Developer, CadNative.com (Aug 2020 - Present)
+#### Freelance Shopware Developer, CadNative.com (Aug 2020 - Present)
 - Developed websites within the Shopware 6 framework for frontend and backend for multiple clients. Debugged software, identified root causes, and implemented solutions
 - Customized themes to align with clients' branding and preferences  
 - Built and integrated custom plugins to enhance functionality
@@ -94,50 +94,51 @@ Self-taught, Innovative Shopware Developer and Full Stack Developer specializing
 - Collaborated closely with clients, providing updates and incorporating feedback
 - Continuously updated skills on Shopware 6 developments and industry trends
 
-##### Senior Engineer & Team Lead, Indoline Industries Private Limited (Sep 2018 - Aug 2020)
+#### Senior Engineer & Team Lead, Indoline Industries Private Limited (Sep 2019 - Aug 2020)
 - Led a team in creating IMOS database, connectors, part definitions, materials workgroups, calculation principles
 - Managed the development of SSRS reports for MSSQL, configured CAM, and set up machines
 - Oversaw the generation of catalogs using XML and managed live production database
 
-##### Designer & Project Lead, Indoline Industries Private Limited (Feb 2018 - Aug 2020)  
+#### Designer & Project Lead, Indoline Industries Private Limited (Feb 2018 - Sep 2019)  
 - Led the design of new modular furniture products
 - Managed product development lifecycle from conception to release
 - Oversaw modeling, drafting, and creation of BOMs, CNC programs, part drawings, and AGLs
 
-##### Designer, Nu-deZine Furniture (May 2015 - Feb 2018)
+#### Designer, Nu-deZine Furniture (May 2015 - Feb 2018)
 - Developed, modeled, and drafted modular furniture components
 - Optimized process flow, minimized wastage, and planned layouts
 - Coordinated with clients, created estimates, budgets, schedules, and presentations
 
-##### Junior Designer, Nu-deZine Furniture (Aug 2014 - May 2015)
+#### Junior Designer, Nu-deZine Furniture (Aug 2014 - May 2015)
 - Reviewed production plans, processed orders, provided drawings and BOQs
 - Monitored productivity, material shortages, payments, and optimized cutting plans
 
-##### Junior Designer, Victrans Engineer (Aug 2012 - Aug 2014)
+#### Junior Designer, Victrans Engineer (Aug 2012 - Aug 2014)
 - Modeled and drafted instrument transformers  
 - Provided drawings, job cards, BOQs, and sheet metal part drafting
 - Optimized sheet cutting and bending plans, simulated product stability
 
-#### Education
+### Education
 Bachelor of Engineering, Computer Science, Nagpur Institute of Technology
 
-#### Skills:
+### Skills:
 Shopware 6, SQL, XML, PHP, Javascript, HTML5, Vue.js, Bootstrap, Node.js, Pattern Matching, MySQL, Json, Virtual Environment, Computer Science, Linux, Presentations, Library, SQL Injection, Team Management, Project Management
 
-#### Tools:
+### Tools:
 Docker, VS Code, Git, Photoshop, Figma, MongoDB, AutoCAD, WooCommerce, MATLAB, SSH, Dev Container
 
 
 
-#### Languages
+
+### Languages
 English (B1), Hindi (Native)
 
-#### Links
-- Check my [portfolio](https://cadnative.com/portfolio/)
+### Links
+- Check my [portfolio](https://akshaynikhare.github.io/)
 - Connect to me on [Website](https://cadnative.com)
-- Hire me on [Fiverr](https://www.fiverr.com/slox47) 
-- Hire me on [Upwork](https://www.upwork.com/freelancers/~017f2cc5c3af16f399) 
-- Star me on [GitHub](https://github.com/akshaynikhare)
+- Hire me on [Fiverr](https://www.fiverr.com/slox47/) 
+- Hire me on [Upwork](https://www.upwork.com/freelancers/~017f2cc5c3af16f399/) 
+- Star me on [GitHub](https://github.com/akshaynikhare/)
 - Follow me on [LinkedIn](https://www.linkedin.com/in/akshay-nikhare/) 
 
 
