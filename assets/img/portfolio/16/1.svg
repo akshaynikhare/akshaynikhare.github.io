@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="500" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0500;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d0a00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ea580c;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f97316;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <!-- TV/Screen frame -->
+  <rect x="310" y="140" width="180" height="130" rx="10" fill="none" stroke="url(#accent)" stroke-width="3"/>
+  <rect x="322" y="152" width="156" height="106" rx="4" fill="#ea580c" opacity="0.15"/>
+  <!-- Play button inside TV -->
+  <polygon points="375,185 375,232 420,208" fill="#f97316" opacity="0.9"/>
+  <!-- TV stand -->
+  <line x1="400" y1="270" x2="400" y2="295" stroke="#ea580c" stroke-width="3"/>
+  <line x1="370" y1="295" x2="430" y2="295" stroke="#ea580c" stroke-width="3"/>
+  <!-- Android bot hint - small antenna dots -->
+  <circle cx="375" cy="138" r="5" fill="#f97316"/>
+  <circle cx="425" cy="138" r="5" fill="#f97316"/>
+  <!-- Fire flame effect -->
+  <path d="M385 125 Q390 110 400 120 Q405 108 415 125 Q420 112 400 100 Q380 112 385 125Z" fill="#f97316" opacity="0.7"/>
+  <!-- Title -->
+  <text x="400" y="335" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="white" text-anchor="middle">FireViston TV</text>
+  <text x="400" y="365" font-family="Arial, sans-serif" font-size="16" fill="#fb923c" text-anchor="middle">Android Streaming App</text>
+  <!-- Bottom accent bar -->
+  <rect x="0" y="480" width="800" height="20" fill="url(#accent)" opacity="0.6"/>
+  <text x="400" y="465" font-family="Arial, sans-serif" font-size="13" fill="#c2410c" text-anchor="middle">Android TV Application</text>
+</svg>
