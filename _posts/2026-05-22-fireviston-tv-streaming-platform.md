@@ -9,6 +9,10 @@ image:
 description: FireViston TV is a full-stack streaming solution — an Android TV app paired with a robust server backend at tv.cadnative.com — built for smooth, reliable video delivery at home.
 ---
 
+**Live Project:** [tv.cadnative.com](https://tv.cadnative.com/){: target="_blank" rel="noopener"}
+
+---
+
 ## What Is FireViston TV?
 
 **FireViston TV** is a full-stack streaming solution designed for the modern living room. It consists of two parts that work in tight coordination:

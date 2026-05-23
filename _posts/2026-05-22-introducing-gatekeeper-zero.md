@@ -9,6 +9,10 @@ image:
 description: Gatekeeper Zero is a powerful access control and security platform built to manage authentication, authorization, and identity across modern applications.
 ---
 
+**Live Project:** [gatekeeperzero.com](https://gatekeeperzero.com/){: target="_blank" rel="noopener"}
+
+---
+
 ## What Is Gatekeeper Zero?
 
 Security is no longer a feature — it's the foundation. **Gatekeeper Zero** is a security platform built around the idea that controlling who accesses what should be simple, transparent, and bulletproof.

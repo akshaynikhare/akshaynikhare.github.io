@@ -9,6 +9,10 @@ image:
 description: Mistyug is a modern web platform focused on delivering fast, elegant, and user-centric digital experiences — built with performance and design at its core.
 ---
 
+**Live Project:** [mistyug.com](https://mistyug.com/){: target="_blank" rel="noopener"}
+
+---
+
 ## What Is Mistyug?
 
 **Mistyug** is a modern web platform that brings together thoughtful design and high-performance engineering. It's built for users who expect seamless, responsive, and visually polished digital experiences — and for developers who refuse to compromise on code quality.
