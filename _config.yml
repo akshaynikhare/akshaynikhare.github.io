@@ -19,7 +19,7 @@ title: Akshay Nikhare # the main title
 tagline: Shopware 6 Developer<br>Product Design Enthusiast # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Experienced Full Stack Developer & Shopware 6 Specialist with 11 years of professional expertise, including 5 years in tech. Skilled in Vue.js, Angular, PHP, MySQL, and product design, delivering high-performance, scalable web solutions. Proficient in eCommerce development, customizing Shopware 6 platform, integrating payment gateways, and third-party APIs. Adept at creating intuitive digital experiences, enhancing application performance, boosting user engagement, and developing effective web scraping tools. Proven ability to lead cross-functional teams, mentor junior developers, and drive projects from concept to completion. Passionate about leveraging cutting-edge technologies, data analytics, and design principles to solve complex problems. Committed to staying updated with the latest industry trends and best practices.
+  Shopware 6 Developer & Full Stack Developer from Nashik, India. 11+ years experience in Vue.js, PHP, MySQL & eCommerce. Expert in plugin development, theme customization & performance optimization.
 
 
 # Fill in the protocol & hostname for your site.
@@ -104,7 +104,7 @@ avatar: "/assets/img/avatar.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: /assets/img/avatar.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
