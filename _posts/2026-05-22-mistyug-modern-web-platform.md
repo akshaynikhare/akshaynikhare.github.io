@@ -4,7 +4,7 @@ date: 2026-05-22 11:00:00 +0530
 categories: [Projects, Web]
 tags: [mistyug, web-platform, product, design]
 image:
-  path: /assets/img/portfolio/15/1.svg
+  path: /assets/img/portfolio/15/1.png
   alt: Mistyug Web Platform
 description: Mistyug is a modern web platform focused on delivering fast, elegant, and user-centric digital experiences — built with performance and design at its core.
 ---

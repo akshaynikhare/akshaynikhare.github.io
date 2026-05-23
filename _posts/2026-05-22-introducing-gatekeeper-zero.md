@@ -4,7 +4,7 @@ date: 2026-05-22 10:00:00 +0530
 categories: [Projects, Security]
 tags: [gatekeeper, security, access-control, web-app]
 image:
-  path: /assets/img/portfolio/14/1.svg
+  path: /assets/img/portfolio/14/1.png
   alt: Gatekeeper Zero Platform
 description: Gatekeeper Zero is a powerful access control and security platform built to manage authentication, authorization, and identity across modern applications.
 ---

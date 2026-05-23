@@ -17,8 +17,10 @@ description: FireViston TV is a full-stack streaming solution — an Android TV 
 
 **FireViston TV** is a full-stack streaming solution designed for the modern living room. It consists of two parts that work in tight coordination:
 
-1. **FireViston TV Android App** — a native Android/Android TV application that delivers a polished, remote-friendly viewing experience
-2. **FireViston TV Server** — the backend streaming infrastructure hosted at [tv.cadnative.com](https://tv.cadnative.com/) that powers content delivery, user management, and playback control
+1. **FireViston TV Android App** — a native Android/Android TV application that delivers a polished, remote-friendly viewing experience. https://github.com/akshaynikhare/FireVisionIPTV/releases
+2. **FireViston TV Server** — the backend streaming infrastructure  that powers content delivery, user management, and playback control hosted at [tv.cadnative.com](https://tv.cadnative.com/)
+
+
 
 Together, they form a complete, self-contained streaming platform.
 
